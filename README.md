@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Rental Project
 
 The Car Rental project is a comprehensive MERN stack web application tailored for small rental companies. It encompasses end-to-end functionality, including user authentication, booking management, and admin features. This application is built using Node.js, Express.js, React.js, Redux, MongoDB, and Mongoose.
@@ -72,3 +73,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Acknowledgements
 
 - Special thanks to the developers and contributors of the libraries and technologies used in this project.
+=======
+# Car-Rental-System
+>>>>>>> 774271471b6eece73e590cd74bee321d51c67414
